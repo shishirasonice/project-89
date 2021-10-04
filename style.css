@@ -17,3 +17,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
+
+#login {
+    padding: 10px;
+}
